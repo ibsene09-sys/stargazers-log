@@ -1,2 +1,2 @@
-# loup-garou-log
+# loup-garou
 mon application web
