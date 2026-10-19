@@ -1,2 +1,2 @@
-# stargazers-log
+# loup-garou
 mon application web
